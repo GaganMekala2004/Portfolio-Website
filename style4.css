@@ -1,0 +1,38 @@
+*{
+    border: 0;
+    margin: 0;
+    padding: 0;
+}
+body{
+    background-color: #030338;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.con{
+    margin: 50px;
+    display: flex;
+    justify-content: center;
+    font-size: larger;
+}
+.details{
+    display: flex;
+    justify-content: space-between;
+   
+}
+.block{
+    margin: 50px 20px;
+    max-width: 30%;
+    height: 200px;
+    background-color: #383803;
+    border: solid #38031d 10px;
+    border-radius: 10%;
+}
+    h2{
+        margin-top: 30px;
+        margin-left: 20px;
+        margin-right: 20px;
+        margin-bottom: 50px ;
+    }
+    h4{
+        margin: 10px 5px;
+    }

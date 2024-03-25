@@ -1,0 +1,31 @@
+*{
+    border: 0;
+    margin: 0;
+    padding: 0;
+}
+body{
+    background-color: #030338;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.abo{
+    margin: 50px;
+    display: flex;
+    justify-content: center;
+    font-size: larger;
+}
+.photo{
+    display: flex;
+    justify-content: center;
+}
+img{
+    height: 300px;
+    width: 225px;
+    border: double #383830 10px;
+    border-radius: 75%;
+    margin-bottom: 40px;
+}
+.det{
+    margin: 20px 20px;
+    padding: 20px 100px;
+}
